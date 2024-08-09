@@ -66,7 +66,7 @@ span {
   height: 550px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("images/intro.png");
+  background-image: url("../images/intro.png");
 }
 
 .intro-projects{
@@ -222,11 +222,11 @@ span {
 }
 
 .road-left {
-  background-image: url("images/road-left.png");
+  background-image: url("../images/road-left.png");
 }
 
 .road-right {
-  background-image: url("images/road-right.png");
+  background-image: url("../images/road-right.png");
 }
 
 .road-left h3,
